@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="227915" started-at="2020-04-09T16:34:13 EET" finished-at="2020-04-09T16:38:01 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="227915" started-at="2020-04-09T16:34:13 EET" finished-at="2020-04-09T16:38:01 EET">
+      <class name="ddt.booking">
+        <test-method status="PASS" signature="setup()[pri:0, instance:ddt.booking@4f970963]" name="setup" is-config="true" duration-ms="23828" started-at="2020-04-09T16:34:13 EET" finished-at="2020-04-09T16:34:36 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="make_appointment()[pri:0, instance:ddt.booking@4f970963]" name="make_appointment" duration-ms="203765" started-at="2020-04-09T16:34:37 EET" finished-at="2020-04-09T16:38:00 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- make_appointment -->
+      </class> <!-- ddt.booking -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
